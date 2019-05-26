@@ -47,3 +47,8 @@ function daysInMonth(month, year) {
 }
 
 createCalendar("cal", 2019, 5);
+
+
+function NewCode() {
+
+}
